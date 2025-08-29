@@ -57,7 +57,7 @@ mvn clean test"
 ## 📷 Sample Outputs
 
 - **Extent Report**  
-  ![Extent Report](screenshots/extent-report.png)  
+  ![Extent Report](https://raw.githubusercontent.com/harsh7736/saucedemo-selenium-java-automation/f4ee88d5564b096ac004e4b04aa1d6037aea0cc2/Extent-Report-Screenshot.png)  
 
 - **Jenkins Build Success**  
   ![Jenkins Build Success](screenshots/jenkins-build-success.png)  
